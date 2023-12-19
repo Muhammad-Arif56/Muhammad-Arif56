@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammad-Arif56
-- 👀 I’m interested in ... JavaScript 
-- 🌱 I’m currently learning ... JavaScript 
-- 💞️ I’m looking to collaborate on ... Web development 
+- 👀 I’m Backend NodeJS Developer
+- 🌱 I’m currently polishing my skills
+- 💞️ I’m looking to collaborate in ... World of Software Engineering
 - 📫 How to reach me ... aafibaloch654@gmail.com
 
 <!---
